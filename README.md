@@ -14,7 +14,7 @@
 
 ## 1. Login to AWS console.
 
-## 2. Create IAM user for deployment
+## 2. Create IAM user for deployment (Identity Access Management)
 
 	#with specific access
 
